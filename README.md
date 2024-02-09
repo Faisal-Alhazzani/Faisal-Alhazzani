@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Faisal-Alhazzani
-- 👀 I’m interested in web develobment, backend and frontend using Python / .NET
-- 🌱 I’m currently learning Angular framework
+- 👀 I’m interested in backend develobment using .NET, Node js, Python
+- 🌱 I’m also interested in frontend develobment using Angular and Vue.js 
 - 💞️ I’m looking to collaborate on software projects using the above mentioned technologies
 - 📫 How to reach me? you can email me on: F.Alhazzani@outlook.com 
 
